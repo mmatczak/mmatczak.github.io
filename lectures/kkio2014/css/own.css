@@ -19,3 +19,7 @@
 div.margin_top_30 {
 	margin-top: 30px;
 }
+
+h1.highlight, h2.highlight, h3.highlight {
+    color: #71e9f4;
+}
